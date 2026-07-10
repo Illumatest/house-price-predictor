@@ -9,6 +9,24 @@ Check out the [MLOps Bootcamp at School of DevOps](https://schoolofdevops.com) t
 
 ---
 
+## Learning Progress
+
+Этот fork используется для последовательного прохождения курса и создания учебного MLOps-портфолио. Изменения добавляются только по мере изучения соответствующих уроков.
+
+| Раздел | Статус |
+| --- | --- |
+| About this Course | Изучено |
+| Conceptual Introduction to MLOps | Изучено |
+| Use Case and Environment Setup | В процессе: урок 3 завершён |
+| Практические проекты | Не начато |
+
+Конспекты:
+
+- [03.02 — Use Case: House Price Predictor — Regression](notes/03-02-house-price-predictor-regression.md)
+- [03.03 — Fork and Clone the Repository](notes/03-03-fork-and-clone-repository.md)
+
+Локальные PDF, субтитры и другие материалы курса размещаются в `course-materials/` и не добавляются в Git.
+
 ## 📦 Project Structure
 
 ```

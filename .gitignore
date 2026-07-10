@@ -5,6 +5,10 @@ __pycache__/
 
 # Ignore virtual environment
 venv/
+.venv/
+.env
+.env.*
+!.env.example
 .env/
 .envrc
 
@@ -39,4 +43,12 @@ dist/
 
 # Ignore all .pkl files (models, preprocessors, etc.)
 *.pkl
+
+# Ignore local course materials
+course-materials/
+
+# Ignore Python tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
